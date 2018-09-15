@@ -10,9 +10,9 @@ import {
   StyledOptions,
   Themed,
   CreateStyledOtherComponent
-} from '@emotion/primitives-core';
+} from '@sampettersson/primitives-core';
 
-import { BaseInterpolation } from '@emotion/primitives-core/types/common';
+import { BaseInterpolation } from '@sampettersson/primitives-core/types/common';
 
 import { ImageProps, ViewProps, TextProps } from 'react-native';
 
